@@ -1,9 +1,6 @@
-
-
-![грустьгифовая](https://github.com/user-attachments/assets/c329c99e-890d-4a3c-b250-0dff010f80c8)
-
-
-
+<div align="center">
+<img height="500" src="https://media1.tenor.com/m/9PTGVf4BLwYAAAAC/crying-emoji-dies.gif" alt="gif with silly cat." />
+</div>
 
 
 
